@@ -1,1 +1,0 @@
-import{n as e}from"./navigation-errors-HDMGEkk5.js";import"./navigation.react-server-BSi3BNZb.js";function t(){e(`/auth`)}export{t as default};

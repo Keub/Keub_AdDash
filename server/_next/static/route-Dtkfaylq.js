@@ -1,1 +1,0 @@
-import{_ as e}from"./api-helpers-DK3CRop-.js";import{n as t}from"./crud-factory-DEw5DSps.js";var n=t({table:e,entityType:`ad_locations`,allowedPatchFields:[`name`,`region`,`sortOrder`,`isActive`]}),r=n.PATCH,i=n.DELETE;export{i as DELETE,r as PATCH};

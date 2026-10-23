@@ -1,1 +1,0 @@
-import{t as e}from"./rsc-DRiwVIua.js";var t=e(()=>{throw Error(`Unexpectedly client reference export 'default' is called on server`)},`2a6824a7b93b`,`default`);export{t as default};
