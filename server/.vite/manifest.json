@@ -1,0 +1,689 @@
+{
+  "_api-helpers-DK3CRop-.js": {
+    "file": "_next/static/api-helpers-DK3CRop-.js",
+    "name": "api-helpers",
+    "imports": [
+      "_rolldown-runtime-DUnMT5BP.js",
+      "_supabase-session-C_w94qYc.js"
+    ]
+  },
+  "_app-page-cache-finalizer-kFmE6Btg.js": {
+    "file": "_next/static/app-page-cache-finalizer-kFmE6Btg.js",
+    "name": "app-page-cache-finalizer",
+    "imports": [
+      "_isr-cache-DOcRwLm-.js",
+      "_cache-headers-Co1CRDjd.js",
+      "_text-stream-OT_dp-0-.js",
+      "_headers-DnAIB1eS.js"
+    ]
+  },
+  "_app-page-stream-wixteNGN.js": {
+    "file": "_next/static/app-page-stream-wixteNGN.js",
+    "name": "app-page-stream",
+    "imports": [
+      "_rolldown-runtime-DUnMT5BP.js",
+      "_framework~index~page~layout~page~page~page~page~layout~page~page~layout~page~app-page-cache~edram5bq-BsJ8ZVpq.js",
+      "_cache-headers-Co1CRDjd.js",
+      "_text-stream-OT_dp-0-.js",
+      "_headers-DnAIB1eS.js",
+      "_implicit-tags-kHkOcByE.js",
+      "_headers-BKSsDpHm.js"
+    ]
+  },
+  "_app-prerender-static-params-t-gQrKUD.js": {
+    "file": "_next/static/app-prerender-static-params-t-gQrKUD.js",
+    "name": "app-prerender-static-params",
+    "imports": [
+      "_root-params-BmDD_O0i.js"
+    ]
+  },
+  "_app-segment-config-DKd5l_iW.js": {
+    "file": "_next/static/app-segment-config-DKd5l_iW.js",
+    "name": "app-segment-config",
+    "imports": [
+      "_isr-cache-DOcRwLm-.js",
+      "_headers-DnAIB1eS.js",
+      "_root-params-BmDD_O0i.js",
+      "_implicit-tags-kHkOcByE.js",
+      "_headers-BKSsDpHm.js"
+    ]
+  },
+  "_cache-headers-Co1CRDjd.js": {
+    "file": "_next/static/cache-headers-Co1CRDjd.js",
+    "name": "cache-headers",
+    "imports": [
+      "_rolldown-runtime-DUnMT5BP.js",
+      "_framework~index~layout~layout~layout~app-page-cache-render~app-page-cache~app-route-handler-dispatch-BKtwTBQI.js",
+      "_framework~index~page~layout~page~page~page~page~layout~page~page~layout~page~app-page-cache~edram5bq-BsJ8ZVpq.js",
+      "_headers-DnAIB1eS.js",
+      "_headers-BKSsDpHm.js",
+      "_record-Cz3MrZeO.js"
+    ]
+  },
+  "_crud-factory-DEw5DSps.js": {
+    "file": "_next/static/crud-factory-DEw5DSps.js",
+    "name": "crud-factory",
+    "imports": [
+      "_api-helpers-DK3CRop-.js"
+    ],
+    "dynamicImports": [
+      "_api-helpers-DK3CRop-.js"
+    ]
+  },
+  "_framework~index-0xMQokAo.js": {
+    "file": "_next/static/framework~index-0xMQokAo.js",
+    "name": "framework~index",
+    "imports": [
+      "_rolldown-runtime-DUnMT5BP.js",
+      "_framework~index~page~layout~page~page~page~page~layout~page~page~app-route-handler-dispatch-DpwaCTlG.js"
+    ]
+  },
+  "_framework~index~layout~layout~layout~app-page-cache-render~app-page-cache~app-route-handler-dispatch-BKtwTBQI.js": {
+    "file": "_next/static/framework~index~layout~layout~layout~app-page-cache-render~app-page-cache~app-route-handler-dispatch-BKtwTBQI.js",
+    "name": "framework~index~layout~layout~layout~app-page-cache-render~app-page-cache~app-route-handler-dispatch",
+    "imports": [
+      "_rolldown-runtime-DUnMT5BP.js",
+      "_framework~index~page~layout~page~page~page~page~layout~page~page~layout~page~app-page-cache~edram5bq-BsJ8ZVpq.js"
+    ]
+  },
+  "_framework~index~page~layout~page~page~page~page~layout~page~page~app-route-handler-dispatch-DpwaCTlG.js": {
+    "file": "_next/static/framework~index~page~layout~page~page~page~page~layout~page~page~app-route-handler-dispatch-DpwaCTlG.js",
+    "name": "framework~index~page~layout~page~page~page~page~layout~page~page~app-route-handler-dispatch",
+    "imports": [
+      "_rolldown-runtime-DUnMT5BP.js",
+      "_framework~index~page~layout~page~page~page~page~layout~page~page~layout~page~app-page-cache~edram5bq-BsJ8ZVpq.js"
+    ]
+  },
+  "_framework~index~page~layout~page~page~page~page~layout~page~page~layout~page~app-page-cache~edram5bq-BsJ8ZVpq.js": {
+    "file": "_next/static/framework~index~page~layout~page~page~page~page~layout~page~page~layout~page~app-page-cache~edram5bq-BsJ8ZVpq.js",
+    "name": "framework~index~page~layout~page~page~page~page~layout~page~page~layout~page~app-page-cache~edram5bq",
+    "imports": [
+      "_rolldown-runtime-DUnMT5BP.js"
+    ]
+  },
+  "_headers-BKSsDpHm.js": {
+    "file": "_next/static/headers-BKSsDpHm.js",
+    "name": "headers",
+    "imports": [
+      "_headers-DnAIB1eS.js"
+    ]
+  },
+  "_headers-DnAIB1eS.js": {
+    "file": "_next/static/headers-DnAIB1eS.js",
+    "name": "headers"
+  },
+  "_implicit-tags-kHkOcByE.js": {
+    "file": "_next/static/implicit-tags-kHkOcByE.js",
+    "name": "implicit-tags",
+    "imports": [
+      "_cache-headers-Co1CRDjd.js",
+      "_redirect-digest-C-06pD9r.js"
+    ]
+  },
+  "_isr-cache-DOcRwLm-.js": {
+    "file": "_next/static/isr-cache-DOcRwLm-.js",
+    "name": "isr-cache",
+    "imports": [
+      "_cache-headers-Co1CRDjd.js"
+    ]
+  },
+  "_navigation-errors-HDMGEkk5.js": {
+    "file": "_next/static/navigation-errors-HDMGEkk5.js",
+    "name": "navigation-errors",
+    "imports": [
+      "_rolldown-runtime-DUnMT5BP.js",
+      "_framework~index~page~layout~page~page~page~page~layout~page~page~layout~page~app-page-cache~edram5bq-BsJ8ZVpq.js"
+    ]
+  },
+  "_navigation-runtime-DP5pWO08.js": {
+    "file": "_next/static/navigation-runtime-DP5pWO08.js",
+    "name": "navigation-runtime",
+    "imports": [
+      "_cache-headers-Co1CRDjd.js"
+    ]
+  },
+  "_navigation.react-server-BSi3BNZb.js": {
+    "file": "_next/static/navigation.react-server-BSi3BNZb.js",
+    "name": "navigation.react-server",
+    "imports": [
+      "_navigation-errors-HDMGEkk5.js"
+    ]
+  },
+  "_record-Cz3MrZeO.js": {
+    "file": "_next/static/record-Cz3MrZeO.js",
+    "name": "record"
+  },
+  "_redirect-digest-C-06pD9r.js": {
+    "file": "_next/static/redirect-digest-C-06pD9r.js",
+    "name": "redirect-digest"
+  },
+  "_rolldown-runtime-DUnMT5BP.js": {
+    "file": "_next/static/rolldown-runtime-DUnMT5BP.js",
+    "name": "rolldown-runtime"
+  },
+  "_root-params-BmDD_O0i.js": {
+    "file": "_next/static/root-params-BmDD_O0i.js",
+    "name": "root-params",
+    "imports": [
+      "_headers-DnAIB1eS.js"
+    ]
+  },
+  "_rsc-DRiwVIua.js": {
+    "file": "_next/static/rsc-DRiwVIua.js",
+    "name": "rsc",
+    "imports": [
+      "_rolldown-runtime-DUnMT5BP.js",
+      "_framework~index~page~layout~page~page~page~page~layout~page~page~app-route-handler-dispatch-DpwaCTlG.js"
+    ]
+  },
+  "_shell-DbMDRONE.js": {
+    "file": "_next/static/shell-DbMDRONE.js",
+    "name": "shell",
+    "imports": [
+      "_rsc-DRiwVIua.js"
+    ]
+  },
+  "_supabase-session-C_w94qYc.js": {
+    "file": "_next/static/supabase-session-C_w94qYc.js",
+    "name": "supabase-session"
+  },
+  "_text-stream-OT_dp-0-.js": {
+    "file": "_next/static/text-stream-OT_dp-0-.js",
+    "name": "text-stream",
+    "imports": [
+      "_cache-headers-Co1CRDjd.js",
+      "_headers-DnAIB1eS.js",
+      "_headers-BKSsDpHm.js"
+    ]
+  },
+  "app/admin/page.tsx": {
+    "file": "_next/static/page-BzMS3YYm.js",
+    "name": "page",
+    "src": "app/admin/page.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rsc-DRiwVIua.js"
+    ]
+  },
+  "app/advertise/layout.tsx": {
+    "file": "_next/static/layout-BZfcfCl3.js",
+    "name": "layout",
+    "src": "app/advertise/layout.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_shell-DbMDRONE.js",
+      "_supabase-session-C_w94qYc.js",
+      "_framework~index~layout~layout~layout~app-page-cache-render~app-page-cache~app-route-handler-dispatch-BKtwTBQI.js",
+      "_navigation.react-server-BSi3BNZb.js",
+      "_headers-BKSsDpHm.js",
+      "_navigation-errors-HDMGEkk5.js"
+    ]
+  },
+  "app/advertise/page.tsx": {
+    "file": "_next/static/page-CKWoPCvb.js",
+    "name": "page",
+    "src": "app/advertise/page.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rsc-DRiwVIua.js"
+    ]
+  },
+  "app/api/admin/app-settings/route.ts": {
+    "file": "_next/static/route-Df1bgZXG.js",
+    "name": "route",
+    "src": "app/api/admin/app-settings/route.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_api-helpers-DK3CRop-.js"
+    ]
+  },
+  "app/api/admin/approval-requirements/route.ts": {
+    "file": "_next/static/route-Reifnl8R.js",
+    "name": "route",
+    "src": "app/api/admin/approval-requirements/route.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_api-helpers-DK3CRop-.js"
+    ]
+  },
+  "app/api/admin/approvals/route.ts": {
+    "file": "_next/static/route-BTEhOAND.js",
+    "name": "route",
+    "src": "app/api/admin/approvals/route.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_supabase-session-C_w94qYc.js"
+    ]
+  },
+  "app/api/admin/audit-log/route.ts": {
+    "file": "_next/static/route-Bp3kPSw3.js",
+    "name": "route",
+    "src": "app/api/admin/audit-log/route.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_api-helpers-DK3CRop-.js"
+    ]
+  },
+  "app/api/admin/campaigns/route.ts": {
+    "file": "_next/static/route-dgbzSPjE.js",
+    "name": "route",
+    "src": "app/api/admin/campaigns/route.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_supabase-session-C_w94qYc.js"
+    ]
+  },
+  "app/api/admin/catalog/route.ts": {
+    "file": "_next/static/route-CudqZYaU.js",
+    "name": "route",
+    "src": "app/api/admin/catalog/route.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_supabase-session-C_w94qYc.js"
+    ]
+  },
+  "app/api/admin/categories/[id]/route.ts": {
+    "file": "_next/static/route-BjBL4-74.js",
+    "name": "route",
+    "src": "app/api/admin/categories/[id]/route.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_supabase-session-C_w94qYc.js"
+    ]
+  },
+  "app/api/admin/categories/route.ts": {
+    "file": "_next/static/route-DR_hMdKy.js",
+    "name": "route",
+    "src": "app/api/admin/categories/route.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_supabase-session-C_w94qYc.js"
+    ]
+  },
+  "app/api/admin/companies/route.ts": {
+    "file": "_next/static/route-C2fVeYUB.js",
+    "name": "route",
+    "src": "app/api/admin/companies/route.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_supabase-session-C_w94qYc.js"
+    ]
+  },
+  "app/api/admin/feature-flags/route.ts": {
+    "file": "_next/static/route-BaK-2YoY.js",
+    "name": "route",
+    "src": "app/api/admin/feature-flags/route.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_api-helpers-DK3CRop-.js"
+    ]
+  },
+  "app/api/admin/locations/[id]/route.ts": {
+    "file": "_next/static/route-Dtkfaylq.js",
+    "name": "route",
+    "src": "app/api/admin/locations/[id]/route.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_api-helpers-DK3CRop-.js",
+      "_crud-factory-DEw5DSps.js"
+    ]
+  },
+  "app/api/admin/locations/route.ts": {
+    "file": "_next/static/route-DMCW0phi.js",
+    "name": "route",
+    "src": "app/api/admin/locations/route.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_api-helpers-DK3CRop-.js",
+      "_crud-factory-DEw5DSps.js"
+    ]
+  },
+  "app/api/admin/overview/route.ts": {
+    "file": "_next/static/route-BDKc_v1c.js",
+    "name": "route",
+    "src": "app/api/admin/overview/route.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_supabase-session-C_w94qYc.js"
+    ]
+  },
+  "app/api/admin/placement-types/[id]/route.ts": {
+    "file": "_next/static/route-Hz2-f27M.js",
+    "name": "route",
+    "src": "app/api/admin/placement-types/[id]/route.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_api-helpers-DK3CRop-.js",
+      "_crud-factory-DEw5DSps.js"
+    ]
+  },
+  "app/api/admin/placement-types/route.ts": {
+    "file": "_next/static/route-CNvP1SZv.js",
+    "name": "route",
+    "src": "app/api/admin/placement-types/route.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_api-helpers-DK3CRop-.js",
+      "_crud-factory-DEw5DSps.js"
+    ]
+  },
+  "app/api/admin/pricing-rules/route.ts": {
+    "file": "_next/static/route-CQ3BchS7.js",
+    "name": "route",
+    "src": "app/api/admin/pricing-rules/route.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_supabase-session-C_w94qYc.js"
+    ]
+  },
+  "app/api/admin/slot-capacities/route.ts": {
+    "file": "_next/static/route-B7ppAQAN.js",
+    "name": "route",
+    "src": "app/api/admin/slot-capacities/route.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_api-helpers-DK3CRop-.js"
+    ]
+  },
+  "app/api/admin/tiers/[id]/route.ts": {
+    "file": "_next/static/route-CF45Kkqv.js",
+    "name": "route",
+    "src": "app/api/admin/tiers/[id]/route.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_supabase-session-C_w94qYc.js"
+    ]
+  },
+  "app/api/admin/tiers/route.ts": {
+    "file": "_next/static/route-CPFfMTOV.js",
+    "name": "route",
+    "src": "app/api/admin/tiers/route.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_supabase-session-C_w94qYc.js"
+    ]
+  },
+  "app/api/auth/route.ts": {
+    "file": "_next/static/route-CSq_9Vcp.js",
+    "name": "route",
+    "src": "app/api/auth/route.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_supabase-session-C_w94qYc.js"
+    ]
+  },
+  "app/api/auth/signup/route.ts": {
+    "file": "_next/static/route-D3fV47LT.js",
+    "name": "route",
+    "src": "app/api/auth/signup/route.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_supabase-session-C_w94qYc.js"
+    ]
+  },
+  "app/api/availability/route.ts": {
+    "file": "_next/static/route-CWYA6r6c.js",
+    "name": "route",
+    "src": "app/api/availability/route.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_supabase-session-C_w94qYc.js"
+    ]
+  },
+  "app/api/campaigns/route.ts": {
+    "file": "_next/static/route-CmCbinx8.js",
+    "name": "route",
+    "src": "app/api/campaigns/route.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_supabase-session-C_w94qYc.js"
+    ]
+  },
+  "app/api/config/route.ts": {
+    "file": "_next/static/route-DUpclCYT.js",
+    "name": "route",
+    "src": "app/api/config/route.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_supabase-session-C_w94qYc.js"
+    ]
+  },
+  "app/api/my/campaigns/[id]/route.ts": {
+    "file": "_next/static/route-tBvSFMzg.js",
+    "name": "route",
+    "src": "app/api/my/campaigns/[id]/route.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_supabase-session-C_w94qYc.js"
+    ]
+  },
+  "app/api/my/campaigns/route.ts": {
+    "file": "_next/static/route-4nJsDGRb2.js",
+    "name": "route",
+    "src": "app/api/my/campaigns/route.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_supabase-session-C_w94qYc.js"
+    ]
+  },
+  "app/api/my/performance/route.ts": {
+    "file": "_next/static/route-Ce3msbTv2.js",
+    "name": "route",
+    "src": "app/api/my/performance/route.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_supabase-session-C_w94qYc.js"
+    ]
+  },
+  "app/auth/page.tsx": {
+    "file": "_next/static/page-CHMcTtc3.js",
+    "name": "page",
+    "src": "app/auth/page.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rsc-DRiwVIua.js"
+    ]
+  },
+  "app/dashboard/billing/page.tsx": {
+    "file": "_next/static/page-BD9aGVg_.js",
+    "name": "page",
+    "src": "app/dashboard/billing/page.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rsc-DRiwVIua.js"
+    ]
+  },
+  "app/dashboard/campaigns/page.tsx": {
+    "file": "_next/static/page-Cmd-0O2R.js",
+    "name": "page",
+    "src": "app/dashboard/campaigns/page.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rsc-DRiwVIua.js"
+    ]
+  },
+  "app/dashboard/layout.tsx": {
+    "file": "_next/static/layout-BSXK-HIc.js",
+    "name": "layout",
+    "src": "app/dashboard/layout.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_shell-DbMDRONE.js",
+      "_supabase-session-C_w94qYc.js",
+      "_framework~index~layout~layout~layout~app-page-cache-render~app-page-cache~app-route-handler-dispatch-BKtwTBQI.js",
+      "_navigation.react-server-BSi3BNZb.js",
+      "_headers-BKSsDpHm.js",
+      "_navigation-errors-HDMGEkk5.js"
+    ]
+  },
+  "app/dashboard/page.tsx": {
+    "file": "_next/static/page-3Q0kHsMy.js",
+    "name": "page",
+    "src": "app/dashboard/page.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rsc-DRiwVIua.js"
+    ]
+  },
+  "app/dashboard/performance/page.tsx": {
+    "file": "_next/static/page-FsEdzJx_.js",
+    "name": "page",
+    "src": "app/dashboard/performance/page.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rsc-DRiwVIua.js"
+    ]
+  },
+  "app/page.tsx": {
+    "file": "_next/static/page-CbPmREeI.js",
+    "name": "page",
+    "src": "app/page.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_navigation.react-server-BSi3BNZb.js",
+      "_navigation-errors-HDMGEkk5.js"
+    ]
+  },
+  "node_modules/vinext/dist/server/app-page-cache-render.js": {
+    "file": "_next/static/app-page-cache-render-BBBRsJxq.js",
+    "name": "app-page-cache-render",
+    "src": "node_modules/vinext/dist/server/app-page-cache-render.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_cache-headers-Co1CRDjd.js",
+      "_app-page-stream-wixteNGN.js",
+      "_text-stream-OT_dp-0-.js",
+      "_implicit-tags-kHkOcByE.js",
+      "_headers-BKSsDpHm.js"
+    ]
+  },
+  "node_modules/vinext/dist/server/app-page-cache.js": {
+    "file": "_next/static/app-page-cache-DSNvQFbD.js",
+    "name": "app-page-cache",
+    "src": "node_modules/vinext/dist/server/app-page-cache.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_navigation-runtime-DP5pWO08.js",
+      "_isr-cache-DOcRwLm-.js",
+      "_cache-headers-Co1CRDjd.js",
+      "_app-page-cache-finalizer-kFmE6Btg.js",
+      "_text-stream-OT_dp-0-.js",
+      "_headers-DnAIB1eS.js"
+    ]
+  },
+  "node_modules/vinext/dist/server/app-prerender-endpoints.js": {
+    "file": "_next/static/app-prerender-endpoints-DZedfbmi.js",
+    "name": "app-prerender-endpoints",
+    "src": "node_modules/vinext/dist/server/app-prerender-endpoints.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_app-prerender-static-params-t-gQrKUD.js",
+      "_root-params-BmDD_O0i.js"
+    ]
+  },
+  "node_modules/vinext/dist/server/app-route-handler-dispatch.js": {
+    "file": "_next/static/app-route-handler-dispatch-B8XKRj2l.js",
+    "name": "app-route-handler-dispatch",
+    "src": "node_modules/vinext/dist/server/app-route-handler-dispatch.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-DUnMT5BP.js",
+      "_rsc-DRiwVIua.js",
+      "_framework~index~page~layout~page~page~page~page~layout~page~page~layout~page~app-page-cache~edram5bq-BsJ8ZVpq.js",
+      "_navigation-runtime-DP5pWO08.js",
+      "_isr-cache-DOcRwLm-.js",
+      "_app-segment-config-DKd5l_iW.js",
+      "_cache-headers-Co1CRDjd.js",
+      "node_modules/vinext/dist/server/app-static-generation.js",
+      "_headers-DnAIB1eS.js",
+      "_root-params-BmDD_O0i.js",
+      "_implicit-tags-kHkOcByE.js",
+      "_headers-BKSsDpHm.js",
+      "_navigation-errors-HDMGEkk5.js"
+    ],
+    "dynamicImports": [
+      "_headers-BKSsDpHm.js"
+    ]
+  },
+  "node_modules/vinext/dist/server/app-static-generation.js": {
+    "file": "_next/static/app-static-generation-DRCJRogc.js",
+    "name": "app-static-generation",
+    "src": "node_modules/vinext/dist/server/app-static-generation.js",
+    "isDynamicEntry": true
+  },
+  "virtual:cloudflare/worker-entry": {
+    "file": "index.js",
+    "name": "index",
+    "src": "virtual:cloudflare/worker-entry",
+    "isEntry": true,
+    "imports": [
+      "_rolldown-runtime-DUnMT5BP.js",
+      "_rsc-DRiwVIua.js",
+      "_framework~index-0xMQokAo.js",
+      "_framework~index~layout~layout~layout~app-page-cache-render~app-page-cache~app-route-handler-dispatch-BKtwTBQI.js",
+      "_framework~index~page~layout~page~page~page~page~layout~page~page~layout~page~app-page-cache~edram5bq-BsJ8ZVpq.js",
+      "_isr-cache-DOcRwLm-.js",
+      "_app-segment-config-DKd5l_iW.js",
+      "_cache-headers-Co1CRDjd.js",
+      "_app-page-cache-finalizer-kFmE6Btg.js",
+      "_app-page-stream-wixteNGN.js",
+      "_text-stream-OT_dp-0-.js",
+      "_app-prerender-static-params-t-gQrKUD.js",
+      "_headers-DnAIB1eS.js",
+      "_root-params-BmDD_O0i.js",
+      "_implicit-tags-kHkOcByE.js",
+      "_navigation.react-server-BSi3BNZb.js",
+      "_headers-BKSsDpHm.js",
+      "_navigation-errors-HDMGEkk5.js",
+      "_record-Cz3MrZeO.js"
+    ],
+    "dynamicImports": [
+      "node_modules/vinext/dist/server/app-prerender-endpoints.js",
+      "node_modules/vinext/dist/server/app-static-generation.js",
+      "node_modules/vinext/dist/server/app-page-cache.js",
+      "node_modules/vinext/dist/server/app-page-cache-render.js",
+      "node_modules/vinext/dist/server/app-route-handler-dispatch.js",
+      "app/api/admin/categories/[id]/route.ts",
+      "virtual:cloudflare/worker-entry",
+      "app/api/admin/locations/[id]/route.ts",
+      "app/api/admin/placement-types/[id]/route.ts",
+      "app/api/admin/tiers/[id]/route.ts",
+      "app/api/my/campaigns/[id]/route.ts",
+      "app/page.tsx",
+      "app/admin/page.tsx",
+      "app/advertise/page.tsx",
+      "app/advertise/layout.tsx",
+      "app/api/admin/app-settings/route.ts",
+      "app/api/admin/approval-requirements/route.ts",
+      "app/api/admin/approvals/route.ts",
+      "app/api/admin/audit-log/route.ts",
+      "app/api/admin/campaigns/route.ts",
+      "app/api/admin/catalog/route.ts",
+      "app/api/admin/categories/route.ts",
+      "app/api/admin/companies/route.ts",
+      "app/api/admin/feature-flags/route.ts",
+      "app/api/admin/locations/route.ts",
+      "app/api/admin/overview/route.ts",
+      "app/api/admin/placement-types/route.ts",
+      "app/api/admin/pricing-rules/route.ts",
+      "app/api/admin/slot-capacities/route.ts",
+      "app/api/admin/tiers/route.ts",
+      "app/api/auth/route.ts",
+      "app/api/auth/signup/route.ts",
+      "app/api/availability/route.ts",
+      "app/api/campaigns/route.ts",
+      "app/api/config/route.ts",
+      "app/api/my/campaigns/route.ts",
+      "app/api/my/performance/route.ts",
+      "app/auth/page.tsx",
+      "app/dashboard/page.tsx",
+      "app/dashboard/layout.tsx",
+      "app/dashboard/billing/page.tsx",
+      "app/dashboard/campaigns/page.tsx",
+      "app/dashboard/performance/page.tsx"
+    ],
+    "css": [
+      "_next/static/css/index.B6tRNW8r.css"
+    ]
+  }
+}
