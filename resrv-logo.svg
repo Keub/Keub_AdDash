@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2100" height="500" viewBox="0 0 2100 500" role="img" aria-labelledby="title description">
+  <title id="title">RESRV</title>
+  <desc id="description">RESRV wordmark with the KEUB cube icon</desc>
+  <defs>
+    <clipPath id="cube-boundary">
+      <rect x="20" y="20" width="460" height="460"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#cube-boundary)">
+    <g transform="translate(-44 -25) scale(8.8)">
+      <path d="M10 20 32 7l22 13-22 13z" fill="#23DC7D"/>
+      <path d="M32 33v24L54 44V20z" fill="#00A95C"/>
+      <path d="M10 28c10 4 17 12 18 25M10 38c6 3 10 8 11 14M10 48c2 1 4 3 5 6" fill="none" stroke="#23DC7D" stroke-width="4" stroke-linecap="round"/>
+    </g>
+  </g>
+  <text x="545" y="377" fill="#23DC7D" font-family="Arial Black, Arial, sans-serif" font-size="342" font-weight="900" letter-spacing="4">RESRV</text>
+</svg>
