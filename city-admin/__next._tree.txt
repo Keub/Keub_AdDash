@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/07eae3cyxpq96.css","style"]
+:HL["/_next/static/chunks/2gze8v2p08jp6.css","style"]
 :HL["/_next/static/chunks/1xq5nooqn3a9g.css","style"]
 :HL["/_next/static/chunks/3xsm17h-ia6mh.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"city-admin","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"7TGpMFIKIeLE9nDQB1iNQ"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"city-admin","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"WYaNQXSNvzlXHKrcrQUyX"}
